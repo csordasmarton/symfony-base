@@ -1,0 +1,8 @@
+frontend_index:
+    resource: "@FrontendIndexBundle/Resources/config/routing.yml"
+    prefix:   /
+
+frontend_layout:
+    resource: "@FrontendLayoutBundle/Resources/config/routing.yml"
+    prefix:   /
+
